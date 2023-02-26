@@ -1,5 +1,4 @@
-import {Task} from './Task';
-
+import { Task } from "./TASK"
 export const TASKS: Task[] = [
     {
         id: 1,
