@@ -10,7 +10,8 @@ export class HeaderComponent{
   ngOnInit(): void{ }
 
   title:string = 'My Task List';
+  
   toggleAddTask(){
-    console.log()
+    console.log("task");
   }
 }
